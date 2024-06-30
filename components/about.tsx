@@ -25,7 +25,7 @@ export default function About() {
         After my service in the milatry has ended I decided to pursue my
         passion for programming, graduating with a diploma in{" "}
         <span className="font-medium">Practical Software Engineer</span>. I enrolled in a Full-Stack coding course,{" "}
-        <span className="font-medium"> where I mastered web development, focusing on Front-end with ReactJS and Back-end with NodeJS, along with many other technologies.</span>.{" "}
+        <span className="font-medium"> where I mastered web development, focusing on Front-end with ReactJS and Back-end with NodeJS, along with many other technologies.</span>{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
         feeling of finally figuring out a solution to a problem. My core stack
@@ -39,7 +39,7 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
+        <span className="italic">When I&apos;m not coding</span>, I enjoy playing
         video games, watching movies, and playing with my dog. I also enjoy{" "}
         <span className="font-medium">learning new things</span>. I am currently
         learning about{" "}
