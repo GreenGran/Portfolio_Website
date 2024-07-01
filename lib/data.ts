@@ -122,7 +122,7 @@ export const projectsData = [
     imageUrl: SlimeGoUpPic,
   },
   {
-    title: "tindog a dating site for your dogs",
+    title: "Tindog a dating site for your dogs",
     description:
       "Tindog! a mock up front-end web site for online dog dating",
     tags: ["JavaScrip", "CSS", "HTML","bootStrap",],
