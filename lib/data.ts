@@ -117,12 +117,12 @@ export const projectsData = [
   {
     title: "Slime Go Up",
     description:
-      "indie game I made and publised to google using Unity with C#. It has ads,skins,shop, timed rewardds and more. Unlisted as of now",
+      "indie game I made and publised to google using Unity with C#. It has ads,skins,shop, timed rewards and more. Unlisted as of now",
     tags: ["unity", "c#",],
     imageUrl: SlimeGoUpPic,
   },
   {
-    title: "CHANGE TO SLIME GO UP LATER",
+    title: "tindog a dating site for your dogs",
     description:
       "Tindog! a mock up front-end web site for online dog dating",
     tags: ["JavaScrip", "CSS", "HTML","bootStrap",],

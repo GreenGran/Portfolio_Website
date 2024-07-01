@@ -22,7 +22,7 @@ export default function About() {
       
        <SectionHeading>About me</SectionHeading>
         <p className="mb-3">
-        After my service in the milatry has ended I decided to pursue my
+        After my service in the military has ended I decided to pursue my
         passion for programming, graduating with a diploma in{" "}
         <span className="font-medium">Practical Software Engineer</span>. I enrolled in a Full-Stack coding course,{" "}
         <span className="font-medium"> where I mastered web development, focusing on Front-end with ReactJS and Back-end with NodeJS, along with many other technologies.</span>{" "}
