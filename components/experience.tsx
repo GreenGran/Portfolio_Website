@@ -9,7 +9,7 @@ import { experiencesData } from '@/lib/data'
 import { useTheme } from '@/app/context/theme-context';
 
 export default function Experience() {
-    const {ref, inView} =  useSectionInView("Experience");
+    const {ref, inView} =  useSectionInView("Experience",0.3);
     const [inViewOnce, setInViewOnce] = useState<boolean>(false);
 
     const { theme }  =  useTheme()
